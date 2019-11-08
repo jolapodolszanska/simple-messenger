@@ -1,0 +1,43 @@
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\SignalRDemo.dll.config
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\SignalRDemo.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\SignalRDemo.pdb
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Newtonsoft.Json.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Owin.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.xml
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Newtonsoft.Json.xml
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.csproj.CoreCompileInputs.cache
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.csproj.CopyComplete
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.dll
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.pdb
+C:\Users\Jola\Desktop\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.csprojAssemblyReference.cache
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\SignalRDemo.dll.config
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\SignalRDemo.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\SignalRDemo.pdb
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Security.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Newtonsoft.Json.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Owin.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.xml
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Microsoft.Owin.Security.xml
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\bin\Newtonsoft.Json.xml
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.csprojAssemblyReference.cache
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.csproj.CopyComplete
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.dll
+E:\Magister materiały\Semestr 1\AIWWW\Angular-SignalR-Demos\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.pdb
